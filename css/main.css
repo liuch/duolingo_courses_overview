@@ -1,0 +1,84 @@
+html, body, div, caption, h1, h2, h3, h4, hr, ul, li, ol, p {
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 1em;
+	text-align: center;
+	/*font: normal 1em/1.5 arial, helvetica, sans-serif;*/
+	/*font-size: max(1em, min(4em, calc(calc(100vw / 75) * 4)));*/
+}
+h1 {
+	color: #080;
+	font-size: 2.5rem;
+	margin: .5em 0;
+}
+h2 {
+	font-size: 1.6rem;
+	margin: 1.2em 0 .4em 0;
+}
+.table {
+	display: table;
+	border: 1px solid #888;
+	border-collapse: collapse;
+	empty-cells: show;
+	margin: 0 auto;
+	min-width: 50%;
+}
+.table-caption {
+	display: table-caption;
+	color: #666;
+	margin-bottom: .3em;
+	font-style: italic;
+}
+.table-colgroup {
+	display: table-column-group;
+}
+.language-column {
+	width: 25%;
+}
+.table-column {
+	display: table-column;
+}
+.table-header {
+	display: table-header-group;
+}
+.table-body {
+	display: table-row-group;
+}
+.table-row {
+	display: table-row;
+}
+.table-cell {
+	display: table-cell;
+	padding: .5rem;
+	border: 1px solid #888;
+	text-align: left;
+}
+.table-header .table-cell {
+	font-weight: bold;
+	background: #f4f6ff;
+}
+.table-cell .tree-link {
+	display: inline-block;
+	padding: .25em;
+	margin: .15em;
+	border: 1px solid #bbb;
+	border-radius: .3em;
+	background-color: #f8f8f8;
+}
+.tree-link.removed, li.removed {
+	text-decoration: line-through;
+}
+.notice {
+	margin-top: 1rem;
+}
+.note {
+	color: #f00;
+	font-weight: bold;
+}
+#main-page ul {
+	display: inline-block;
+	text-align: left;
+}
+

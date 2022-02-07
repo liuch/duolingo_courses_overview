@@ -1,0 +1,38 @@
+html, body, div, h1, h2, h3, h4, hr, ul, li, ol, p {
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 1em;
+	font-size: 110%;
+}
+h1 {
+	color: #080;
+	font-size: 2.5em;
+	margin: .5em 1em;
+	text-align: center;
+}
+h2, h3 {
+	margin: .5em 0;
+	padding: .2em 0 .2em 1.5em;
+	font-size: 2em;
+}
+ul, ol, p {
+	font-size: 1.5rem;
+	margin-left: 2em;
+}
+#information, .skills-section {
+	color: #008;
+	margin-top: 1em;
+	padding: .4em 0 .4em 1.5em;
+	border-top: .05em solid #bbb;
+	border-bottom: .05em solid #bbb;
+	background-color: #f8f8f8;
+}
+.last-update {
+	margin: 1em 0;
+	padding: .2em 0 .2em 1em;
+	border-top: 1px dotted #000;
+	border-bottom: 1px dotted #000;
+}
+

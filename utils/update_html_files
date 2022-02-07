@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+##
+# This script is for batch converting tree markdown files.
+# It looks for *.md files in directory ./markdown, run md2html with each file as an argument
+# and then saves the result as *.html files into directory ./html
+# Run example:
+# ./utils/update_html_files
+##
+
+while IFS= read -r -d '' file
+do
+	echo "Processing ${file} ..."
+	fname="$(basename -s ".md" "$file")"
+	if ! utils/md2html "markdown/${fname}.md" > "html/${fname}.html"; then
+		exit 1
+	fi
+done < <(find markdown/ -maxdepth 1 -type f -name "*.md" -print0)
+
+echo "Done!"
+
+exit 0
+
