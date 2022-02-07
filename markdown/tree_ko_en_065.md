@@ -1,0 +1,490 @@
+TITLE: Vocab per Skill Unit for the Korean / EN Course
+
+
+## **Part 1**
+
+## [Alphabet](https://www.duolingo.com/skill/ko/Alphabet/practice) \[[test](https://www.duolingo.com/skill/ko/Alphabet/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Alphabet/tips-and-notes)
+* Number of lessons: 6
+* Words: 아, 어, 오, 이, 우, 으, 아이, 야, 여, 우유, 유, 요, 에, 애, 예, 얘, 와, 의, 외, 워, 우의, 위, 웨, 왜
+
+
+## [Alphabet 2](https://www.duolingo.com/skill/ko/Alphabet-2/practice) \[[test](https://www.duolingo.com/skill/ko/Alphabet-2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Alphabet-2/tips-and-notes)
+* Number of lessons: 7
+* Words: 가, 너, 도, 루, 게, 노, 다, 리, 노래, 미, 브, 샤, 져, 보, 뭐, 사, 재, 개미, 툐, 츄, 캐, 톤, 최, 캬, 퍠, 표, 도쿄, 헤, 쎼, 끠, 똬, 썌, 휘, 또, 씨, 뽸, 쬐, 쭤, 쪄, 쁘, 뽀뽀, 각, 갖, 갈, 갑, 꽃, 밝, 앚, 밟, 갇, 강, 갓, 갔, 갂, 도넛, 같, 뵹
+
+
+## [Alphabet 3](https://www.duolingo.com/skill/ko/Loan-Words/practice) - Alphabet 3: Loan Words \[[test](https://www.duolingo.com/skill/ko/Loan-Words/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Loan-Words/tips-and-notes)
+* Number of lessons: 4
+* Words: 삼성, 현대, 배스킨라빈스, 맥도날드, 스타벅스, 듀오링고, 파리, 뉴욕, 런던, 도쿄, 워싱턴, 부산, 베를린, 서울, 유나이티드, 모터스, 블루윙즈, 드래곤즈, 커피, 파티, 아파트, 콜라, 아이스크림
+
+
+## [Basics 1](https://www.duolingo.com/skill/ko/basics-1/practice) \[[test](https://www.duolingo.com/skill/ko/basics-1/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/basics-1/tips-and-notes)
+* Number of lessons: 4
+* Words: 남자, 여자, 또는, 들, 와/과, 연필, 책, 집, 학교, 사과, 빵, 하고, 사람, 아이, 물건, 장소, 음식, 이다, 네, 은/는, 이/가, 남자아이, 여자아이, 고양이, 아니요, 개, 동물, 아닙니다, 저, 의
+
+
+## [Basics 2](https://www.duolingo.com/skill/ko/basics-2/practice) \[[test](https://www.duolingo.com/skill/ko/basics-2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/basics-2/tips-and-notes)
+* Number of lessons: 4
+* Words: 없다, 에, 길, 방, 있었어요, 산, 공원, 한국, 바다, 가족, 친구, 자동차, 신문, 차, 공, 메시지, 맛있다, 맛없습니다, 재미있다, 재미없습니다, 멋있다, 멋없다, 학생, 영화, 인기, 매력, 의미, 가수, 출신
+
+
+## [Phrases 1](https://www.duolingo.com/skill/ko/Common-Phrases-1/practice) - Common Phrases \[[test](https://www.duolingo.com/skill/ko/Common-Phrases-1/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Common-Phrases-1/tips-and-notes)
+* Number of lessons: 2
+* Words: 안녕하십니까, 고맙습니다, 만나서 반갑습니다, 환영합니다, 이름, 죄송합니다, 실례합니다, 감사합니다, 괜찮습니다, 미안하다
+
+----------
+
+## **Part 2**
+
+## [Verbs 1](https://www.duolingo.com/skill/ko/regular-verbs/practice) - Regular Verbs \[[test](https://www.duolingo.com/skill/ko/regular-verbs/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/regular-verbs/tips-and-notes)
+* Number of lessons: 7
+* Words: 웃다, 앉다, 넘어지다, 서다, 같이, 함께, 에서, 도서관, 생각하다, 가다, 오다, 수영하다, 걷다, 뛰다, 섬, (으)로, 까지, 달립니다, 마시다, 먹다, 쓰다, 읽다, 적다, 을/를, 손, 물, 하다, 말하다, 이야기하다, 조금, 잘, 대화합니다, 한국어, 영어, 받다, 줍니다, 보냅니다, 에게서, 가르치다, 에게, 선물, 편지, 노래합니다, 자다, 꿉니다, 추다, 꿈, 잠, 노래, 춤, 공부하다, 운동합니다, 않다, 잡다, 던지다, 안, 배우다, 공부, 운동
+
+
+## [Adjectives](https://www.duolingo.com/skill/ko/Descriptive-Verbs/practice) - Descriptive Verbs \[[test](https://www.duolingo.com/skill/ko/Descriptive-Verbs/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Descriptive-Verbs/tips-and-notes)
+* Number of lessons: 6
+* Words: 좋다, 나쁩니다, 작다, 크다, 짧다, 길다, 많다, 비싸다, 쌉니다, 가볍습니다, 무겁습니다, 빠릅니다, 느립니다, 차갑습니다, 뜨겁다, 춥다, 덥습니다, 넓다, 좁다, 높습니다, 낮습니다, 귀엽다, 아름답습니다, 예쁩니다, 뚱뚱하다, 키, 날씬하다, 깨끗하다, 더럽다, 똑똑하다, 착하다, 비열합니다, 게으르다, 영리하다, 바쁘다, 친절합니다, 이상하다, 슬프다, 행복하다, 피곤하다, 아픕니다, 기쁩니다, 지루합니다
+
+
+## [Demonst.](https://www.duolingo.com/skill/ko/Demonstratives/practice) - Demonstratives \[[test](https://www.duolingo.com/skill/ko/Demonstratives/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Demonstratives/tips-and-notes)
+* Number of lessons: 3
+* Words: 이, 그, 이것, 그것, 저것, 저, 카메라, 책상, 건물, 이쪽, 식당, 화장실, 호텔, 여기, 거기, 저기, 그쪽, 저쪽, 이편, 그편, 이만큼, 저편, 저만큼, 침대, 가방, 나무, 그만큼
+
+
+## [Formal Md.](https://www.duolingo.com/skill/ko/Formal_Moods/practice) - Formal Moods \[[test](https://www.duolingo.com/skill/ko/Formal_Moods/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Formal_Moods/tips-and-notes)
+* Number of lessons: 6
+* Words: 보다, 배웁니다, 집중하십시오, 조심하십시오, 천천히, 덜, 더, 다시, 손님, 마십시오, 걱정하지, 만지지, 많이, 빨리, 너무, 식사합시다, 등산합시다, 찍읍시다, 극장, 사진, 박물관, 요리하다, 남기지, 한글, 청소합시다, 매일, 오늘, 언제, 어디, 누구, 무슨, 어떻게, 님, 가람, 어느, 무엇, 왜, 어떤, 아저씨, 아주머니
+
+
+## [Polite](https://www.duolingo.com/skill/ko/polite_speech_level/practice) - Polite Speech \[[test](https://www.duolingo.com/skill/ko/polite_speech_level/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/polite_speech_level/tips-and-notes)
+* Number of lessons: 4
+* Words: 내리어요, 텔레비전, 사라지다, 맞지, 울지, 잠가요, 보다, 이다, 돕다, 어두워요, 묻다, 듣습니다, 라디오, 누워요, 걸어요, 이어요, 지어요, 기르다, 나아요, 다르다, 모르다, 병, 일합니다, 건강해요, 이렇다, 그렇다, 저래요, 날씨, 비슷해요, 열쇠, 음악
+
+
+## [Food](https://www.duolingo.com/skill/ko/Food/practice) \[[test](https://www.duolingo.com/skill/ko/Food/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Food/tips-and-notes)
+* Number of lessons: 8
+* Words: 아침, 저녁, 점심, 접시, 식사, 반찬, 그릇, 만, 밥, 주스, 수프, 와인, 기름, 우유, 커피, 맥주, 과일, 토마토, 바나나, 옥수수, 오렌지, 귤, 딸기, 야채, 고추, 고기, 소고기, 계란, 돼지고기, 닭고기, 달걀, 치즈, 생선, 설탕, 파스타, 감자, 후추, 샌드위치, 케이크, 과자, 햄버거, 치킨, 초콜릿, 라면, 아이스크림, 피자, 목, 마릅니다, 고프다, 배, 불고기, 치맥, 김치, 김밥, 김
+
+
+## [Pronouns](https://www.duolingo.com/skill/ko/Pronouns/practice) \[[test](https://www.duolingo.com/skill/ko/Pronouns/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Pronouns/tips-and-notes)
+* Number of lessons: 3
+* Words: 사랑하다, 좋아합니다, 미워해요, 싫어해요, 우리, 나, 믿습니다, 속이지, 놀립니까, 너, 너희, 그, 그녀, 알겠습니다, 서로, 자신, 자기, 혼자, 당신
+
+
+## [Animals](https://www.duolingo.com/skill/ko/Animals/practice) \[[test](https://www.duolingo.com/skill/ko/Animals/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Animals/tips-and-notes)
+* Number of lessons: 5
+* Words: 새, 거북이, 토끼, 물고기, 거미, 오리, 쥐, 탑니다, 말, 닭, 양, 돼지, 소, 농장, 날지, 호랑이, 부엉이, 사슴, 늑대, 뱀, 숲, 찾다, 여우, 개미, 곰, 개구리, 너구리, 못, 고래, 까치, 게, 상어, 나비, 코끼리, 용, 위험
+
+
+## [Modifier 1](https://www.duolingo.com/skill/ko/Verbal-Modifier/practice) - Verbal Modifier: Present \[[test](https://www.duolingo.com/skill/ko/Verbal-Modifier/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Verbal-Modifier/tips-and-notes)
+* Number of lessons: 6
+* Words: 큰, 작은, 씁니까, 짜요, 소금, 짧은, 신선한, 짠, 쓴, 단, 달아요, 긴, 꿀, 매운, 맵습니다, 시다, 신, 강아지, 언어, 귀여운, 쉬워요, 어려워요, 쉬운, 어려운, 맛있는, 맛없는, 가장, 재미있는, 재미없는, 있는, 없는, 먹는, 마시는, 가는, 웃는, 달리는, 자는, 읽는, 아기, 않는, 우는, 나는, 추는, 다른, 는
+
+
+## [Conjunct](https://www.duolingo.com/skill/ko/Conjunctions/practice) - Conjunctions \[[test](https://www.duolingo.com/skill/ko/Conjunctions/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Conjunctions/tips-and-notes)
+* Number of lessons: 2
+* Words: 고, 그래서, 으면, 으면서, 그리고, 아서, 지만, 는데, 하지만, 그런데, 도, 으러
+
+----------
+
+## **Part 3**
+
+## [Polite Md.](https://www.duolingo.com/skill/ko/Polite-Moods/practice) - Polite Moods \[[test](https://www.duolingo.com/skill/ko/Polite-Moods/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Polite-Moods/tips-and-notes)
+* Number of lessons: 3
+* Words: 만듭니다, 사다, 파세요, 살다, 것, 고르세요, 숨다, 만나요, 내일, 다녀요, 놀아요, 곧, 원해요, 씨, 터집니다, 싱거워요, 곳, 누가, 얼마나, 뭘, 어떻습니까
+
+
+## [Adverbs 1](https://www.duolingo.com/skill/ko/Adverbs/practice) - Adverbs: Degree \[[test](https://www.duolingo.com/skill/ko/Adverbs/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Adverbs/tips-and-notes)
+* Number of lessons: 3
+* Words: 매우, 제일, 정말, 아주, 좋은, 나쁜, 특히, 상당히, 꽤, 엄청, 훨씬, 싼, 굉장히, 비싼, 참, 별로, 거의, 그리, 차가운, 뜨거운, 보다, 바쁜, 하는
+
+
+## [Numbers 1](https://www.duolingo.com/skill/ko/Numbers_1/practice) - Numbers 1: Native Korean \[[test](https://www.duolingo.com/skill/ko/Numbers_1/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Numbers_1/tips-and-notes)
+* Number of lessons: 4
+* Words: 하나, 둘, 셋, 넷, 다섯, 개, 여섯, 일곱, 여덟, 아홉, 열, 몇, 명, 살, 스무, 서른, 마흔, 쉰, 예순, 권, 마리, 자루, 일흔, 여든, 아흔, 대, 첫, 번째
+
+
+## [Preposit.](https://www.duolingo.com/skill/ko/Prepositions/practice) - Prepositions \[[test](https://www.duolingo.com/skill/ko/Prepositions/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Prepositions/tips-and-notes)
+* Number of lessons: 4
+* Words: 안, 밖, 앞, 옆, 상자, 배낭, 위, 뒤, 아래, 바로, 밑, 의자, 식탁, 하늘, 속, 가운데, 사이, 장난감, 배우, 근처, 왼쪽, 오른쪽, 건너편, 은행, 가까이, 멀리
+
+
+## [Adverbs 2](https://www.duolingo.com/skill/ko/Adverbs-2/practice) \[[test](https://www.duolingo.com/skill/ko/Adverbs-2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Adverbs-2/tips-and-notes)
+* Number of lessons: 2
+* Words: 게, 늦어요, 조용해요, 편하다, 즐거워요, 시끄럽습니다, 열심히, 완전히, 따로, 우연히, 없이, 조용히
+
+
+## [Verbs 2](https://www.duolingo.com/skill/ko/Compound-Verbs/practice) - Compound Verbs \[[test](https://www.duolingo.com/skill/ko/Compound-Verbs/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Compound-Verbs/tips-and-notes)
+* Number of lessons: 3
+* Words: 빌려줍니다, 돌려줍니다, 탁자를, 도와줘요, 먹어봅시다, 해보세요, 빌리다, 돌려요, 슬퍼해요, 싶어하다, 무서워요, 무서워하다, 괴물, 싶다, 걸어가요, 돌아와요, 들어가요, 올라가요, 내려와요, 돕니다, 오릅니다
+
+
+## [Continuous](https://www.duolingo.com/skill/ko/Verb:-Continuous/practice) - Verb: Continuous \[[test](https://www.duolingo.com/skill/ko/Verb:-Continuous/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Verb:-Continuous/tips-and-notes)
+* Number of lessons: 2
+* Words: 있어요, 가져요, 선생님, 회사원, 게으른, 지도, 앉는, 생각하는, 들다, 가벼운, 무거운, 예쁜, 빈
+
+
+## [Colors](https://www.duolingo.com/skill/ko/Colors/practice) \[[test](https://www.duolingo.com/skill/ko/Colors/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Colors/tips-and-notes)
+* Number of lessons: 4
+* Words: 색, 인, 검은, 하얀, 파란, 노란, 빨간, 꽃, 주황, 초록, 회, 갈, 녹, 보라, 분홍, 파랑, 하양, 검정, 노랑, 빨강, 색깔, 빨갛습니까, 파래요, 하얗습니까, 푸르다, 검습니다, 노랗습니다
+
+
+## [Honorific](https://www.duolingo.com/skill/ko/Honorific/practice) \[[test](https://www.duolingo.com/skill/ko/Honorific/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Honorific/tips-and-notes)
+* Number of lessons: 3
+* Words: 드시다, 진지, 께서, 할머니, 할아버지, 시다, 계십니다, 주무시다, 말씀하십니다, 드립니다, 께, 댁, 연세, 되세요, 성함, 분, 생신
+
+
+## [Casual](https://www.duolingo.com/skill/ko/Casual/practice) \[[test](https://www.duolingo.com/skill/ko/Casual/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Casual/tips-and-notes)
+* Number of lessons: 3
+* Words: 야, 청소해, 설거지하다, 닦다, 민지, 지훈, 응, 여행하자, 파티, 열다, 이야기하자, 창문, 서준, 서연, 랑, 걸, 게, 친한, 건, 싸워, 지금, 시작
+
+
+## [Clothing](https://www.duolingo.com/skill/ko/Clothing/practice) \[[test](https://www.duolingo.com/skill/ko/Clothing/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Clothing/tips-and-notes)
+* Number of lessons: 5
+* Words: 입다, 바지, 셔츠, 치마, 양복, 원피스, 옷, 한복, 벌, 신다, 신발, 구두, 운동화, 양말, 짝, 써, 모자, 가면, 안경, 아름다운, 낍니다, 반지, 장갑, 차요, 허리띠, 손목시계, 넥타이, 매요, 풉시다, 벗어, 빼지, 코트, 선글라스, 벨트, 갈다
+
+
+## [Family](https://www.duolingo.com/skill/ko/family/practice) \[[test](https://www.duolingo.com/skill/ko/family/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/family/tips-and-notes)
+* Number of lessons: 4
+* Words: 어머니, 아버지, 부모, 자식, 아들, 딸, 아빠, 엄마, 오빠, 형, 동생, 남동생, 여동생, 누나, 언니, 형제, 자매, 아내, 남편, 부부, 여보, 애인, 배우자, 사촌, 삼촌, 손자, 손녀, 이모
+
+
+## [Written](https://www.duolingo.com/skill/ko/Written/practice) \[[test](https://www.duolingo.com/skill/ko/Written/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Written/tips-and-notes)
+* Number of lessons: 3
+* Words: 으며, 사용하다, 씻으세요, 일어나다, 전화, 지르지, 소리, 그러나, 운전한다, 주문하니, 나, 얻는다, 택시, 문, 쉬지, 닫니, 병, 일어서니
+
+----------
+
+## **Part 4**
+
+## [Numbers 2](https://www.duolingo.com/skill/ko/Numbers-2/practice) - Numbers 2: Sino-Korean \[[test](https://www.duolingo.com/skill/ko/Numbers-2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Numbers-2/tips-and-notes)
+* Number of lessons: 3
+* Words: 이, 삼, 일, 사, 오, 공, 돈, 육, 칠, 팔, 구, 십, 번호, 달러, 백, 천, 만, 억, 조, 원
+
+
+## [Past Tense](https://www.duolingo.com/skill/ko/Past-Tense/practice) - Verbs: Past Tense \[[test](https://www.duolingo.com/skill/ko/Past-Tense/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Past-Tense/tips-and-notes)
+* Number of lessons: 3
+* Words: 연습했습니다, 방금, 태어났어요, 미국, 병원, 연습, 아직, 생겼습니까, 휴대폰, 떠났다, 컴퓨터, 오래됐습니다, 못생겼어, 썼습니까, 잊지, 버리다, 잃었어, 쓰레기, 딱, 번
+
+
+## [Food 2](https://www.duolingo.com/skill/ko/Restaurant/practice) - Food 2: Restaurant \[[test](https://www.duolingo.com/skill/ko/Restaurant/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Restaurant/tips-and-notes)
+* Number of lessons: 4
+* Words: 빵집, 카페, 시켜요, 술집, 요리사, 요리, 양식, 일식, 종업원, 한식, 인분, 점, 저기요, 후식, 패스트푸드, 예약했습니까, 채식주의자, 안주, 메뉴, 계산했습니까, 술, 포크, 숟가락, 칼, 젓가락, 수저, 차렸어
+
+
+## [Gerund](https://www.duolingo.com/skill/ko/Gerund/practice) \[[test](https://www.duolingo.com/skill/ko/Gerund/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Gerund/tips-and-notes)
+* Number of lessons: 3
+* Words: 쉬는, 시는, 싸우는, 타는, 주는, 오는, 걷는, 힘들어요, 벗는, 입는, 닫는, 신는, 차는, 쓰는, 가르치는, 불편해, 기, 전, 여행, 중요하다, 계획, 세웠어요
+
+
+## [Time](https://www.duolingo.com/skill/ko/Time/practice) \[[test](https://www.duolingo.com/skill/ko/Time/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Time/tips-and-notes)
+* Number of lessons: 6
+* Words: 시, 초, 분, 오후, 밤, 시간, 새벽, 오전, 어제, 그저께, 모레, 며칠, 어젯밤, 옛날, 다음, 지난, 걸려요, 주, 동안, 마지막, 이번, 년, 일, 해, 작년, 내년, 올해, 달, 날, 매년, 하루, 이틀, 사흘, 나흘, 닷새, 엿새, 이레, 여드레, 아흐레, 열흘, 부터
+
+
+## [Modifier 2](https://www.duolingo.com/skill/ko/Modifiers2/practice) - Modifiers 2: Past Tense \[[test](https://www.duolingo.com/skill/ko/Modifiers2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Modifiers2/tips-and-notes)
+* Number of lessons: 2
+* Words: 후, 한, 먹은, 마신, 간, 온, 생각, 선, 준, 받은, 꾼, 본, 던
+
+
+## [Seasons](https://www.duolingo.com/skill/ko/Seasons/practice) \[[test](https://www.duolingo.com/skill/ko/Seasons/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Seasons/tips-and-notes)
+* Number of lessons: 4
+* Words: 봄, 흐르다, 펴요, 벚꽃, 새끼, 풀, 푸른, 계절, 여름, 황사, 해, 햇빛, 떴어요, 해수욕장, 지냈어요, 가을, 낙엽, 수확물, 풍부하다, 떨어져요, 호박, 긁습니다, 바람, 겨울, 얼음, 불, 눈, 스키, 난로, 타요
+
+
+## [Pronouns 2](https://www.duolingo.com/skill/ko/Pronouns2/practice) - Pronouns: Indefinite \[[test](https://www.duolingo.com/skill/ko/Pronouns2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Pronouns2/tips-and-notes)
+* Number of lessons: 2
+* Words: 아무, 아무도, 모두, 각자, 각각, 대부분, 문제, 모든, 든지, 데, 다, 때, 그래도, 이나, 이제
+
+
+## [Adverbs 3](https://www.duolingo.com/skill/ko/Adverbs3/practice) - Adverbs 3: Frequency \[[test](https://www.duolingo.com/skill/ko/Adverbs3/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Adverbs3/tips-and-notes)
+* Number of lessons: 2
+* Words: 자주, 보통, 가끔, 항상, 햄스터, 고슴도치, 결코, 전혀, 일찍, 갑자기, 도마뱀, 금붕어
+
+
+## [Objects](https://www.duolingo.com/skill/ko/Objects/practice) \[[test](https://www.duolingo.com/skill/ko/Objects/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Objects/tips-and-notes)
+* Number of lessons: 3
+* Words: 종이, 잡지, 자전거, 볼펜, 나요, 고장, 장, 주워요, 펜, 스피커, 지갑, 기계, 손가방, 설계해요, 엘리베이터, 거울, 실크, 플라스틱, 돌, 그림, 형광펜, 그리다, 색연필, 지우개, 냄비, 밥솥
+
+
+## [City](https://www.duolingo.com/skill/ko/City/practice) \[[test](https://www.duolingo.com/skill/ko/City/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/City/tips-and-notes)
+* Number of lessons: 3
+* Words: 도시, 시, 복잡해요, 수도, 시내, 동네, 교외, 다리, 터널, 건너다, 지나다, 거리, 횡단보도, 혼잡했어요, 시청, 아파트, 고층, 편의점, 백화점, 경찰서, 소방서, 마천루
+
+
+## [Body](https://www.duolingo.com/skill/ko/Body/practice) \[[test](https://www.duolingo.com/skill/ko/Body/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Body/tips-and-notes)
+* Number of lessons: 5
+* Words: 머리, 눈, 귀, 입, 머리카락, 이, 얼굴, 코, 몸, 가슴, 어깨, 등, 허리, 뼈, 피부, 다리, 팔, 무릎, 발, 팔꿈치, 손가락, 발가락, 발꿈치, 눈물, 수염, 콧수염, 배꼽, 톱, 바닥, 후각, 감각, 미각, 청각, 촉각, 시각
+
+
+## [Phrases 2](https://www.duolingo.com/skill/ko/Phrases-2/practice) - Phrases2 \[[test](https://www.duolingo.com/skill/ko/Phrases-2/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Phrases-2/tips-and-notes)
+* Number of lessons: 3
+* Words: 제발, 천만에요, 건배, 부탁했어요, 위하여, 축하하다, 생일, 처음 뵙겠습니다, 봬요, 나중, 이따, 인사, 안녕히, 오랜만, 아싸, 대박, 아이고, 우아, 그냥, 파이팅, 진짜
+
+
+## [Jobs](https://www.duolingo.com/skill/ko/Occupations/practice) - Occupations \[[test](https://www.duolingo.com/skill/ko/Occupations/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Occupations/tips-and-notes)
+* Number of lessons: 4
+* Words: 일, 직업, 고용인, 고용주, 적, 노동자, 직장, 건축가, 제빵사, 군인, 조종사, 엔지니어, 취직해요, 실직했어요, 변호사, 의사, 경력, 대통령, 근무해요, 퇴근했어요, 출근했습니다, 이미, 작가, 모델, 화가, 감독, 출장, 퇴직, 해고하다, 실업자, 벌써
+
+
+## [School](https://www.duolingo.com/skill/ko/School/practice) \[[test](https://www.duolingo.com/skill/ko/School/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/School/tips-and-notes)
+* Number of lessons: 4
+* Words: 고등학교, 중학교, 초등학교, 유치원, 고등학생, 초등학생, 중학생, 반, 학년, 운동장, 담임, 학급, 명부, 교장, 수학여행, 점, 교시, 졸업, 시험, 성적표, 숙제, 통과했습니다, 점수, 교실, 칠판, 분필, 자리, 강당, 체육관, 발표합니다
+
+
+## [Future](https://www.duolingo.com/skill/ko/Future/practice) - Future Tense \[[test](https://www.duolingo.com/skill/ko/Future/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Future/tips-and-notes)
+* Number of lessons: 3
+* Words: 할, 먹을, 마실, 갈, 올, 거, 고향, 예정, 들을, 걸을, 만들, 볼, 줄, 있을, 없을, 쓸, 보낼, 가르칠, 만날, 실, 을
+
+----------
+
+## **Part 5**
+
+## [Calendar](https://www.duolingo.com/skill/ko/Calendar/practice) \[[test](https://www.duolingo.com/skill/ko/Calendar/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 월요일, 화요일, 수요일, 목요일, 금요일, 평일, 마다, 토요일, 일요일, 주말, 요일, 월, 년도, 달력, 매, 돌, 동갑, 환갑, 잔치, 백일, 내기, 똑같아요
+
+
+## [Medicine](https://www.duolingo.com/skill/ko/Medicine/practice) \[[test](https://www.duolingo.com/skill/ko/Medicine/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Medicine/tips-and-notes)
+* Number of lessons: 5
+* Words: 간호사, 환자, 아픈, 감기, 건강, 고통, 아픔, 바이러스, 진단, 죽음, 죽었습니다, 심장, 마비, 피, 사망, 약, 약사, 치료, 약국, 복용, 치과, 소아과, 학, 외과, 내과, 수술, 낳아줘, 메스, 수술대, 뇌
+
+
+## [Home](https://www.duolingo.com/skill/ko/Home/practice) \[[test](https://www.duolingo.com/skill/ko/Home/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Home/tips-and-notes)
+* Number of lessons: 5
+* Words: 가구, 거실, 소파, 에어컨, 꽂이, 마루, 옷장, 벽장, 침실, 담요, 벽, 베개, 보, 층, 주방, 찬장, 냉장고, 냉동고, 식기, 가스, 레인지, 욕실, 싱크대, 기, 세탁, 세척, 청소, 건조, 정원, 자물쇠, 마당, 차고, 울타리, 지붕
+
+
+## [Adjectives](https://www.duolingo.com/skill/ko/Adjectives/practice) - Non-Verbal Adjectives \[[test](https://www.duolingo.com/skill/ko/Adjectives/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 적, 역사, 경제, 대해, 세계, 대한, 과학, 전통, 문화, 관하다, 질문, 관한, 개인, 성공, 기본, 사회, 일반, 이론, 같아요
+
+
+## [Hobbies](https://www.duolingo.com/skill/ko/Hobbies/practice) \[[test](https://www.duolingo.com/skill/ko/Hobbies/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 수, 때문, 탈, 스케이트보드, 롤러스케이트, 서핑, 취미, 수수께끼, 풀어요, 퍼즐, 이겨요, 지는, 낚시, (으)ㄴ지/는지, 줄, 운전, 그릴, 야구, 차요, 찰
+
+
+## [Shopping](https://www.duolingo.com/skill/ko/Shopping/practice) \[[test](https://www.duolingo.com/skill/ko/Shopping/test)\]
+
+* Tips and notes: no
+* Number of lessons: 5
+* Words: 가게, 슈퍼마켓, 시장, 쇼핑, 카트, 서점, 장바구니, 판매, 식료, 품, 가치, 할인, 중, 퍼센트, 실, 상표, 맞지, 사이즈, 탈의, 어울려요, 줄, 계산서, 계산대, 가격, 유로, 교환, 지불, 영수증, 카드, 새, 현금, 신용, 비밀
+
+
+## [Cooking](https://www.duolingo.com/skill/ko/Cooking/practice) - Food 3: Cooking \[[test](https://www.duolingo.com/skill/ko/Cooking/test)\]
+
+* Tips and notes: no
+* Number of lessons: 6
+* Words: 필요, 따르다, 식용, 요리법, 유, 양, 파, 배추, 전자, 도마, 오븐, 저을, 자르다, 굽는다, 넣다, 소스, 재료, 찌다, 삶다, 끓다, 고구마, 무, 위해, 복숭아, 휴지통, 조리대, 요리책, 국자, 익히다, 정육, 놓지, 국, 맛, 끓여, 뚜껑, 양념, 좀, 만두, 간장, 갈비, 야, 찌개, 찜, 떡, 오이, 무침
+
+
+## [Weather](https://www.duolingo.com/skill/ko/Weather/practice) \[[test](https://www.duolingo.com/skill/ko/Weather/test)\]
+
+* Tips and notes: no
+* Number of lessons: 5
+* Words: 비, 불다, 무지개, 태풍, 안개, 강했어요, 폭풍, 추천, 눈보라, 빛, 홍수, 우박, 서리, 주의, 가뭄, 그림자, 열기, 온도, 온도계, 젖다, 기후, 도, 한파, 구름, 습해, 맑다, 밝았다, 흐리다, 네요, 꼈어, 지요, 번개, 천둥, 일기, 예보, 예보관, 친다, 의하다
+
+
+## [Quotation](https://www.duolingo.com/skill/ko/Quotation/practice) - Indirect Quotation \[[test](https://www.duolingo.com/skill/ko/Quotation/test)\]
+
+* Tips and notes: no
+* Number of lessons: 4
+* Words: 다고, 기자, 원, 연구, 회사, 추측, 믿어요, 거짓말, 방송, 조사, 면접, 냐고, 형사, 우체부, 관, 자고, 동료, 동급생, 동업자, 동반자, 주인, 라고, 교수, 조련, 자, 사, 검사, 소개
+
+
+## [Sports](https://www.duolingo.com/skill/ko/Sports/practice) \[[test](https://www.duolingo.com/skill/ko/Sports/test)\]
+
+* Tips and notes: [yes](https://www.duolingo.com/skill/ko/Sports/tips-and-notes)
+* Number of lessons: 5
+* Words: 경기, 골, 선수, 코치, 스포츠, 감독, 득점, 응원, 축구, 수비수, 하키, 공격수, 장, 팀, 단, 배구, 코트, 농구, 테니스, 탁구, 채, 네트, 양궁, 태권도, 궁수, 쐈어요, 활, 화살, 도, 승마, 권투, 마라톤, 경주, 훈련, 용품, 수영, 바둑
+
+
+## [Feelings](https://www.duolingo.com/skill/ko/Feelings-1/practice) \[[test](https://www.duolingo.com/skill/ko/Feelings-1/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 감정, 느끼다, 졸리다, 화, 내다, 안전, 놀라다, 참습니다, 기쁨, 확실, 불, 스럽다, 자랑, 고집, 질투, 신물, 부끄러워요, 긴장, 눈치, 정, 짜증, 실수
+
+
+## [Traffic](https://www.duolingo.com/skill/ko/Traffic/practice) \[[test](https://www.duolingo.com/skill/ko/Traffic/test)\]
+
+* Tips and notes: no
+* Number of lessons: 5
+* Words: 버스, 기사, 정류장, 우대석, 교통, 대중, 터미널, 시외, 놓치다, 지하철, 선, 호, 기차, 역, 막차, 행, 기다리다, 오토바이, 인도, 보행자, 도로, 운전자, 신호, 등, 항해, 순항, 배, 선장, 조종, 항구, 우회전, 좌회전, 직진, 증, 면허, 양보, 사거리
+
+
+## [Geography](https://www.duolingo.com/skill/ko/Geography/practice) \[[test](https://www.duolingo.com/skill/ko/Geography/test)\]
+
+* Tips and notes: no
+* Number of lessons: 4
+* Words: 호수, 나라, 강, 사막, 들판, 깊었어요, 얕아요, 풍경, 협곡, 계곡, 언덕, 땅, 지역, 연못, 팠어요, 동굴, 고원, 초원, 평평해요, 해안, 해변, 골짜기, 빙하, 모래, 거대해요
+
+
+## [Bathroom](https://www.duolingo.com/skill/ko/Bathroom/practice) \[[test](https://www.duolingo.com/skill/ko/Bathroom/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 샤워, 변기, 틀, 목욕, 탕, 욕조, 샴푸, 비누, 수건, 치약, 칫솔, 감습니다, 빗다, 면도, 빗, 가위, 깎았습니다
+
+
+## [Passive](https://www.duolingo.com/skill/ko/Passive/practice) \[[test](https://www.duolingo.com/skill/ko/Passive/test)\]
+
+* Tips and notes: no
+* Number of lessons: 4
+* Words: 끝, 냄새, 기억, 땀, 열, 대답, 준비, 포함, 이해, 제공, 보이다, 먹이지, 닫혔다, 먹혔어, 잡혔습니다, 들려요, 열려, 팔리다, 잘려요, 잠겼다, 안아요, 안겼다, 알리다
+
+
+## [Emergency](https://www.duolingo.com/skill/ko/Emergency/practice) \[[test](https://www.duolingo.com/skill/ko/Emergency/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 도움, 사태, 비상, 구급차, 구급, 불러요, 긴급, 상태, 경찰, 신고, 도둑, 도난, 당했습니다, 발생했어요, 소방차, 소방관, 화재, 진압하다, 꺼요, 소화기
+
+
+## [Map](https://www.duolingo.com/skill/ko/Map/practice) \[[test](https://www.duolingo.com/skill/ko/Map/test)\]
+
+* Tips and notes: no
+* Number of lessons: 6
+* Words: 탐험하자, 국가, 대륙, 국경, 지구본, 어, 일본, 아시아, 태국, 중국, 싱가포르, 호주, 터키, 인, 유럽, 루마니아, 러시아, 체코, 폴란드, 외국, 포르투갈, 그리스, 이스라엘, 스페인, 영국, 노르웨이, 덴마크, 프랑스, 아일랜드, 네덜란드, 독일, 벨기에, 멕시코, 브라질, 아르헨티나, 페루, 캐나다, 아프리카, 이집트, 북, 쪽, 서, 남, 동
+
+
+## [Travel](https://www.duolingo.com/skill/ko/Travel/practice) \[[test](https://www.duolingo.com/skill/ko/Travel/test)\]
+
+* Tips and notes: no
+* Number of lessons: 3
+* Words: 공항, 비행기, 비행, 짐, 탑승, 권, 수속, 수하물, 모험, 방문, 도착, 출발, 안내서, 안내, 항공사, 세관, 면세, 여권, 표, 예매, 비자, 연장, 신청, 입국, 출국, 기록
+
+
+## [W Olympics](https://www.duolingo.com/skill/ko/Winter-Olympics/practice) - Winter Olympics \[[test](https://www.duolingo.com/skill/ko/Winter-Olympics/test)\]
+
+* Tips and notes: no
+* Number of lessons: 5
+* Words: 평창, 동계, 올림픽, 대회, 개최, 제, 회, 대표, 선수단, 마스코트, 오륜, 국제, 스노보드, 봅슬레이, 피겨, 스케이팅, 스피드, 쇼트트랙, 개막식, 폐막식, 성화, 경기장, 시상식, 상, 메달, 금, 은, 동, 수상자, 땄습니다
+
+
+## [Pop!](https://www.duolingo.com/skill/ko/PopCulture/practice) - Pop Culture \[[test](https://www.duolingo.com/skill/ko/PopCulture/test)\]
+
+* Tips and notes: no
+* Number of lessons: 4
+* Words: 뉴스, 인터뷰, 인터넷, 방송국, 기사, 언론, 녹음, 유명한, 팬, 밴드, 음반, 그룹, 새롭다, 멤버, 가사, 콘서트, 안무, 아이돌, 무대, 한류, 케이팝, 유튜브
+
+
+----------
+
+## **General information**
+
+- Skills: 65
+- Lessons: 258
+- Words: 1708
+- Tips: 48 (73.8%)
+
+----------
+
+Other links:
+
+- [List of Vocabularies for Language Courses of Duolingo](https://forum.duolingo.com/comment/31074292)
+
+----------
+
+Last update: 2019-04-17
