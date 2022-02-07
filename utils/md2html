@@ -41,6 +41,11 @@ html_escape() {
 	printf %s "$s"
 }
 
+url_escape() {
+	s=${1//\"/%22}
+	printf %s "$s"
+}
+
 start_document() {
 	local title
 	title="$(echo "$1" | sed "s|^TITLE: \\(.\\+\\)$|\\1\\t|" | cut -sf1)"
@@ -191,9 +196,9 @@ start_skill() {
 	t_url="$(echo "$skill" | cut -sf5)"
 	if [ "$pass" = "2" ]; then
 		if [ -n "$t_name" ]; then
-			printf "\t<h3 class=\"skill-header\"><a href=\"%s\">%s</a>%s [<a href=\"%s\">%s</a>]</h3>\n" "$url" "$(html_escape "$name")" "$(html_escape "$l_name")" "$t_url" "$(html_escape "$t_name")"
+			printf "\t<h3 class=\"skill-header\"><a href=\"%s\">%s</a>%s [<a href=\"%s\">%s</a>]</h3>\n" "$(url_escape "$url")" "$(html_escape "$name")" "$(html_escape "$l_name")" "$(url_escape "$t_url")" "$(html_escape "$t_name")"
 		else
-			printf "\t<h3 class=\"skill-header\"><a href=\"%s\">%s</a>%s</h3>\n" "$url" "$(html_escape "$name")" "$(html_escape "$l_name")"
+			printf "\t<h3 class=\"skill-header\"><a href=\"%s\">%s</a>%s</h3>\n" "$(url_escape "$url")" "$(html_escape "$name")" "$(html_escape "$l_name")"
 		fi
 		printf "\t<ul>\n"
 	fi
@@ -239,7 +244,7 @@ notes_line() {
 		else
 			local url
 			url="$(echo "$value" | cut -sf2)"
-			printf "\t\t<li>%s: <a href=\"%s\">%s</a></li>\n" "$(html_escape "$name")" "$url" "$(html_escape "$ancor")"
+			printf "\t\t<li>%s: <a href=\"%s\">%s</a></li>\n" "$(html_escape "$name")" "$(url_escape "$url")" "$(html_escape "$ancor")"
 		fi
 	fi
 	scan_state="skill_lessons"
