@@ -5,8 +5,6 @@ html, body, div, caption, h1, h2, h3, h4, hr, ul, li, ol, p {
 body {
 	padding: 1em;
 	text-align: center;
-	/*font: normal 1em/1.5 arial, helvetica, sans-serif;*/
-	/*font-size: max(1em, min(4em, calc(calc(100vw / 75) * 4)));*/
 }
 h1 {
 	color: #080;

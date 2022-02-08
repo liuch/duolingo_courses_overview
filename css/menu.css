@@ -62,10 +62,10 @@
 	top: 0;
 	left: -100%;
 	bottom: 0;
-	/*height: 100%;*/
 	margin: 0;
 	padding: 5rem 0 2rem 0;
 	overflow: auto;
+	list-style: none;
 	background-color: #eee;
 	box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
 	transition: all 600ms cubic-bezier(0.86, 0, 0.07, 1);
@@ -74,9 +74,6 @@
 #menu-toggle:checked ~ .menu-box {
 	visibility: visible;
 	left: 0;
-}
-.menu-box {
-	list-style: none;
 }
 .menu-box > li {
 	background-color: #fff;
