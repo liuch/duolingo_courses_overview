@@ -21,7 +21,6 @@
 }
 #menu-button .button-decor:after, #menu-button .button-decor:before {
 	content: "";
-	position: absolute;
 	left: 0;
 }
 #menu-button .button-decor {
