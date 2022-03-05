@@ -33,12 +33,7 @@ die() {
 }
 
 html_escape() {
-	local s
-	s=${1//&/&amp;}
-	s=${s//</&lt;}
-	s=${s//>/&gt;}
-	s=${s//\"/&quot;}
-	printf %s "$s"
+	printf "%s" "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g'
 }
 
 url_escape() {
@@ -311,7 +306,7 @@ words_line() {
 
 word_list_line() {
 	local words
-	words="$(echo "$1" | sed "s|^    [[:digit:]]\\+\\. \\(.\\+\\)$|\\1\\t|" | cut -sf1)"
+	words="$(printf "%s" "$1" | sed "s|^    [[:digit:]]\\+\\. \\(.\\+\\)$|\\1\\t|" | cut -sf1)"
 	if [ -z "$words" ]; then
 		die "Incorrect word list string"
 	fi
