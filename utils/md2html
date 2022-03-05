@@ -101,18 +101,23 @@ start_document() {
 
 generate_menu() {
 	local info_item
+	local tree_list
 	case "$1" in
 		"ru")
 			info_item="Информация"
+			tree_list="Все курсы"
 			;;
 		"pt")
 			info_item="Informação"
+			tree_list="Alle Kurse"
 			;;
 		"es")
 			info_item="Información"
+			tree_list="Todos los cursos"
 			;;
 		*)
 			info_item="Information"
+			tree_list="All the courses"
 			;;
 	esac
 	printf "\
@@ -122,9 +127,10 @@ generate_menu() {
 		<label class=\"toggle-button\" for=\"menu-toggle\"></label>
 		<ul class=\"menu-box\">%s
 			<li><a href=\"#information\">%s</a></li>
+			<li><a href=\"../\">%s</a></li>
 		</ul>
 	</div>
-" "$menu_items" "$info_item"
+" "$menu_items" "$info_item" "$tree_list"
 }
 
 bold_header_parts() {
