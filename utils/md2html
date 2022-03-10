@@ -17,18 +17,16 @@ menu_items=""
 skills_cnt=0
 
 if [ -z "$source" ]; then
-	>&2 echo "Missed parameter!"
-	>&2 echo "Usage: $0 <source_file.md>"
+	>&2 printf "Missed parameter!\nUsage: %s <source_flil.md>\n" "$0"
 	exit 1
 fi
 if [ ! -f "$source" ]; then
-	>&2 echo "Failed! Source file \"$source\" doesn't exist"
+	>&2 printf "Failed! Source file \"%s\" doesn't exist\n" "$source"
 	exit 2
 fi
 
 die() {
-	>&2 echo "Failed at line ${source_line}:"
-	>&2 echo "$1"
+	>&2 printf "Failed at line %s:\n%s\n" "$source_line" "$1"
 	exit 3
 }
 
@@ -43,12 +41,12 @@ url_escape() {
 
 start_document() {
 	local title
-	title="$(echo "$1" | sed "s|^TITLE: \\(.\\+\\)$|\\1\\t|" | cut -sf1)"
+	title="$(printf "%s" "$1" | sed "s|^TITLE: \\(.\\+\\)$|\\1\\t|" | cut -sf1)"
 	if [ -z "$title" ]; then
 		die "TITLE missed"
 	fi
 	local lang
-	lang="$(echo "$title" | sed "s|^.\\+ / \\([[:upper:]][[:upper:]]\\)\\>.*$|\\1\\t|" | cut -sf1 | tr "[:upper:]" "[:lower:]")"
+	lang="$(printf "%s" "$title" | sed "s|^.\\+ / \\([[:upper:]][[:upper:]]\\)\\>.*$|\\1\\t|" | cut -sf1 | tr "[:upper:]" "[:lower:]")"
 	if [ -z "$lang" ]; then
 		die "Can't find a language marker in the title"
 	fi
@@ -71,7 +69,7 @@ start_document() {
 				skills_str="skills"
 				;;
 		esac
-		if ! echo "$title" | grep -q "(.\\+)$"; then
+		if ! printf "%s" "$title" | grep -q "(.\\+)$"; then
 			title="${title} (${skills_cnt} ${skills_str})"
 		fi
 		title="$(html_escape "$title")"
@@ -129,18 +127,15 @@ generate_menu() {
 }
 
 bold_header_parts() {
-	# shellcheck disable=SC2001
-	echo "$1" | sed "s|^## \\*\\*\\(.\\+\\)\\*\\*$|\\1\\t|"
+	printf "%s" "$1" | sed "s|^## \\*\\*\\(.\\+\\)\\*\\*$|\\1\\t|"
 }
 
 ul_element_parts() {
-	# shellcheck disable=SC2001
-	echo "$1" | sed "s|^\\$2 \\(.\\+\\): \\(.\\+\\)$|\\1\\t\\2|"
+	printf "%s" "$1" | sed "s|^\\$2 \\(.\\+\\): \\(.\\+\\)$|\\1\\t\\2|"
 }
 
 link_element_parts() {
-	# shellcheck disable=SC2001
-	echo "$1" | sed "s|^\\[\\(.\\+\\)\\](\\(.\\+\\))$|\\1\\t\\2|"
+	printf "%s" "$1" | sed "s|^\\[\\(.\\+\\)\\](\\(.\\+\\))$|\\1\\t\\2|"
 }
 
 output_li() {
@@ -158,7 +153,7 @@ start_section() {
 		die "Incorrect section string"
 	fi
 	local section_num
-	section_num="$(echo "$section" |  grep -o "[[:digit:]]\\+$")"
+	section_num="$(printf "%s" "$section" |  grep -o "[[:digit:]]\\+$")"
 	if [ -z "$section_num" ]; then
 		start_general_info
 		return
@@ -181,20 +176,20 @@ start_skill() {
 	local t_name
 	local t_url
 	# shellcheck disable=SC2001
-	skill="$(echo "$1" | sed "s|^## \\[\\(.\\+\\)\\](\\([^)]\\+\\))\\( - .\\+\\)\\? \\\\\\[\\[\\(.\\+\\)\\](\\(.\\+\\))\\\\\\]$|\\1\\t\\2\\t\\3\\t\\4\\t\\5|")"
-	name="$(echo "$skill" | cut -sf1)"
+	skill="$(printf "%s" "$1" | sed "s|^## \\[\\(.\\+\\)\\](\\([^)]\\+\\))\\( - .\\+\\)\\? \\\\\\[\\[\\(.\\+\\)\\](\\(.\\+\\))\\\\\\]$|\\1\\t\\2\\t\\3\\t\\4\\t\\5|")"
+	name="$(printf "%s" "$skill" | cut -sf1)"
 	if [ -z "$name" ]; then
 		# shellcheck disable=SC2001
-		skill="$(echo "$1" | sed "s|^## \\[\\(.\\+\\)\\](\\(.\\+\\))\\( - .\\+\\)\\?$|\\1\\t\\2\\t\\3\\t\\t|")"
-		name="$(echo "$skill" | cut -sf1)"
+		skill="$(printf "%s" "$1" | sed "s|^## \\[\\(.\\+\\)\\](\\(.\\+\\))\\( - .\\+\\)\\?$|\\1\\t\\2\\t\\3\\t\\t|")"
+		name="$(printf "%s" "$skill" | cut -sf1)"
 		if [ -z "$name" ]; then
 			die "Incorrect skill name"
 		fi
 	fi
-	url="$(echo "$skill" | cut -sf2)"
-	l_name="$(echo "$skill" | cut -sf3)"
-	t_name="$(echo "$skill" | cut -sf4)"
-	t_url="$(echo "$skill" | cut -sf5)"
+	url="$(printf "%s" "$skill" | cut -sf2)"
+	l_name="$(printf "%s" "$skill" | cut -sf3)"
+	t_name="$(printf "%s" "$skill" | cut -sf4)"
+	t_url="$(printf "%s" "$skill" | cut -sf5)"
 	if [ "$pass" = "2" ]; then
 		if [ -n "$t_name" ]; then
 			printf "\t<h3 class=\"skill-header\"><a href=\"%s\">%s</a>%s [<a href=\"%s\">%s</a>]</h3>\n" "$(url_escape "$url")" "$(html_escape "$name")" "$(html_escape "$l_name")" "$(url_escape "$t_url")" "$(html_escape "$t_name")"
@@ -208,7 +203,7 @@ start_skill() {
 }
 
 next_element() {
-	if echo "$1" | grep -q "^-\\+$"; then
+	if printf "%s" "$1" | grep -q "^-\\+$"; then
 		if [ "$scan_state" = "after_general_info" ]; then
 			scan_state="start_links_list"
 		elif [ "$scan_state" = "after_links_list" ]; then
@@ -218,7 +213,7 @@ next_element() {
 		fi
 		return
 	fi
-	if echo "$1" | grep -q "^## \\*\\*"; then
+	if printf "%s" "$1" | grep -q "^## \\*\\*"; then
 		start_section "$1"
 	elif [ "$scan_state" = "after_links_list" ]; then
 		die "Missed a separator?"
@@ -231,20 +226,20 @@ notes_line() {
 	local list_item
 	list_item="$(ul_element_parts "$1" "*")"
 	local name
-	name="$(echo "$list_item" | cut -sf1)"
+	name="$(printf "%s" "$list_item" | cut -sf1)"
 	if [ -z "$name" ]; then
 		die "Incorrect notes string"
 	fi
 	local value
-	value="$(link_element_parts "$(echo "$list_item" | cut -sf2)")"
+	value="$(link_element_parts "$(printf "%s" "$list_item" | cut -sf2)")"
 	local ancor
-	ancor="$(echo "$value" | cut -sf1)"
+	ancor="$(printf "%s" "$value" | cut -sf1)"
 	if [ "$pass" = "2" ]; then
 		if [ -z "$ancor" ]; then
 			output_li "$name" "$value"
 		else
 			local url
-			url="$(echo "$value" | cut -sf2)"
+			url="$(printf "%s" "$value" | cut -sf2)"
 			printf "\t\t<li>%s: <a href=\"%s\">%s</a></li>\n" "$(html_escape "$name")" "$(url_escape "$url")" "$(html_escape "$ancor")"
 		fi
 	fi
@@ -255,9 +250,9 @@ lessons_line() {
 	local list_item
 	list_item="$(ul_element_parts "$1" "*")"
 	local name
-	name="$(echo "$list_item" | cut -sf1)"
+	name="$(printf "%s" "$list_item" | cut -sf1)"
 	local value
-	value="$(echo "$list_item" | cut -sf2 | grep "^[[:digit:]]\\+$")"
+	value="$(printf "%s" "$list_item" | cut -sf2 | grep "^[[:digit:]]\\+$")"
 	if [ -z "$name" ] || [ -z "$value" ]; then
 		die "Incorrect lessons count string"
 	fi
@@ -276,17 +271,17 @@ voice_line() {
 
 words_line() {
 	local name
-	name="$(echo "$1" | sed "s|^\\* \\(.\\+\\):$|\\1\\t|" | cut -sf1)"
+	name="$(printf "%s" "$1" | sed "s|^\\* \\(.\\+\\):$|\\1\\t|" | cut -sf1)"
 	if [ -z "$name" ]; then
 		local list_item
 		list_item="$(ul_element_parts "$1" "*")"
-		name="$(echo "$list_item" | cut -sf1)"
+		name="$(printf "%s" "$list_item" | cut -sf1)"
 		if [ -z "$name" ]; then
 			die "Incorrect words string"
 		fi
 		local value
-		value="$(echo "$list_item" | cut -sf2)"
-		if echo "$value" | grep -q ".[0-9]%$"; then
+		value="$(printf "%s" "$list_item" | cut -sf2)"
+		if printf "%s" "$value" | grep -q ".[0-9]%$"; then
 			# It looks as if it is an optional string "Voice acting"
 			voice_line "$name" "$value"
 			return
@@ -341,13 +336,13 @@ general_info() {
 	local list_item
 	list_item="$(ul_element_parts "$1" "-")"
 	local name
-	name=$(echo "$list_item" | cut -sf1);
+	name=$(printf "%s" "$list_item" | cut -sf1);
 	if [ -z "$name" ]; then
 		die "Incorrect general information string"
 	fi
 	if [ "$pass" = "2" ]; then
 		local value
-		value=$(echo "$list_item" | cut -sf2);
+		value=$(printf "%s" "$list_item" | cut -sf2);
 		output_li "$name" "$value"
 	fi
 	scan_state="general_info"
@@ -362,7 +357,7 @@ end_general_info() {
 
 links_list() {
 	# just skip all the section
-	if echo "$1" | grep -q "^- "; then
+	if printf "%s" "$1" | grep -q "^- "; then
 		scan_state="links_list"
 	fi
 }
@@ -370,15 +365,15 @@ links_list() {
 last_update() {
 	local item
 	# shellcheck disable=SC2001
-	item="$(echo "$1" | sed "s|^\(.\+\): \(.\+\)$|\1\t\2|")"
+	item="$(printf "%s" "$1" | sed "s|^\(.\+\): \(.\+\)$|\1\t\2|")"
 	local name
-	name="$(echo "$item" | cut -sf1)"
+	name="$(printf "%s" "$item" | cut -sf1)"
 	if [ -z "$name" ]; then
 		die "Incorrect last update string"
 	fi
 	if [ "$pass" = "2" ]; then
 		local value
-		value="$(echo "$item" | cut -sf2)"
+		value="$(printf "%s" "$item" | cut -sf2)"
 		printf "\t<p class=\"last-update\">%s: %s</p>\n" "$(html_escape "$name")" "$(html_escape "$value")"
 	fi
 }
