@@ -8,13 +8,21 @@
 # ./utils/update_html_files
 ##
 
+fcnt=0
 while IFS= read -r -d '' file
 do
-	echo "Processing ${file} ..."
+	fcnt=$((fcnt + 1))
+done < <(find markdown/ -maxdepth 1 -type f -name "*.md" -print0)
+
+fnum=1
+while IFS= read -r -d '' file
+do
+	printf "[%2d/%2d] Processing %s\n" "$fnum" "$fcnt" "$file"
 	fname="$(basename -s ".md" "$file")"
 	if ! utils/md2html "markdown/${fname}.md" > "html/${fname}.html"; then
 		exit 1
 	fi
+	fnum=$((fnum + 1))
 done < <(find markdown/ -maxdepth 1 -type f -name "*.md" -print0)
 
 echo "Done!"
