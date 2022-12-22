@@ -2,6 +2,10 @@ html, body, div, h1, h2, h3, h4, hr, ul, li, ol, p {
 	margin: 0;
 	padding: 0;
 }
+html {
+	color: var(--color-fg-default);
+	background-color: var(--color-bg-default);
+}
 body {
 	padding: 1em;
 	font-size: 110%;
@@ -17,17 +21,23 @@ h2, h3 {
 	padding: .2em 0 .2em 1.5em;
 	font-size: 2em;
 }
+a {
+	color: var(--color-lk-default);
+}
+a:visited {
+	color: var(--color-lk-visited);
+}
 ul, ol, p {
 	font-size: 1.5rem;
 	margin-left: 2em;
 }
 #information, .skills-section {
-	color: #008;
+	color: var(--color-fg-section);
 	margin-top: 1em;
 	padding: .4em 0 .4em 1.5em;
-	border-top: .05em solid #bbb;
-	border-bottom: .05em solid #bbb;
-	background-color: #f8f8f8;
+	border-top: .05em solid var(--color-br-default);
+	border-bottom: .05em solid var(--color-br-default);
+	background-color: var(--color-bg-section);
 }
 .last-update {
 	margin: 1em 0;

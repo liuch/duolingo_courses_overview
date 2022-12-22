@@ -2,6 +2,10 @@ html, body, div, caption, h1, h2, h3, h4, hr, ul, li, ol, p {
 	margin: 0;
 	padding: 0;
 }
+html {
+	color: var(--color-fg-default);
+	background-color: var(--color-bg-default);
+}
 body {
 	padding: 1em;
 	text-align: center;
@@ -15,9 +19,14 @@ h2 {
 	font-size: 1.6rem;
 	margin: 1.2em 0 .4em 0;
 }
+a {
+	color: var(--color-lk-default);
+}
+a:visited {
+	color: var(--color-lk-visited);
+}
 .table {
 	display: table;
-	border: 1px solid #888;
 	border-collapse: collapse;
 	empty-cells: show;
 	margin: 0 auto;
@@ -25,7 +34,7 @@ h2 {
 }
 .table-caption {
 	display: table-caption;
-	color: #666;
+	color: var(--color-fg-muted);
 	margin-bottom: .3em;
 	font-style: italic;
 }
@@ -50,29 +59,30 @@ h2 {
 .table-cell {
 	display: table-cell;
 	padding: .5rem;
-	border: 1px solid #888;
+	border: 1px solid var(--color-br-default);
 	text-align: left;
 }
 .table-header .table-cell {
 	font-weight: bold;
-	background: #f4f6ff;
+	background: var(--color-bg-header);
 }
 .table-cell .tree-link {
 	display: inline-block;
 	padding: .25em;
 	margin: .15em;
-	border: 1px solid #bbb;
+	border: 1px solid var(--color-br-block);
 	border-radius: .3em;
-	background-color: #f8f8f8;
+	background-color: var(--color-bg-block);
 }
 .tree-link.removed, li.removed {
+	color: var(--color-fg-muted);
 	text-decoration: line-through;
 }
 .notice {
 	margin-top: 1rem;
 }
 .note {
-	color: #f00;
+	color: var(--color-st-txtred);
 	font-weight: bold;
 }
 #main-page ul {
